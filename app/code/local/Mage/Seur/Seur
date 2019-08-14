@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="10" xOffset="0" scrollWidth="524280" startPos="630" endPos="630" selMode="0" lang="XML" filename="C:\wamp\www\perfume\app\code\local\Mage\Seur\etc\config.xml" />
+            <File firstVisibleLine="27" xOffset="0" scrollWidth="524280" startPos="2078" endPos="2090" selMode="0" lang="XML" filename="C:\wamp\www\perfume\app\code\local\Mage\Seur\etc\system.xml" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="524280" startPos="91" endPos="91" selMode="0" lang="XML" filename="C:\wamp\www\perfume\app\etc\modules\Mage_Seur.xml" />
+            <File firstVisibleLine="59" xOffset="0" scrollWidth="524280" startPos="2937" endPos="2937" selMode="0" lang="PHP" filename="C:\wamp\www\perfume\app\code\local\Mage\Seur\Model\Seur\Seur.php">
+                <Mark line="82" />
+            </File>
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="524280" startPos="136" endPos="136" selMode="0" lang="PHP" filename="C:\wamp\www\perfume\app\code\local\Mage\Seur\Model\Standard\Data.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="524280" startPos="120" endPos="124" selMode="0" lang="PHP" filename="C:\wamp\www\perfume\app\code\local\Mage\Seur\Model\Standard\Weightunits.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="524280" startPos="0" endPos="0" selMode="0" lang="Normal Text" filename="C:\wamp\www\perfume\var\log\system.log" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="524280" startPos="84" endPos="84" selMode="0" lang="PHP" filename="C:\wamp\www\perfume\app\design\frontend\default\default\template\seur\form.phtml" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="524280" startPos="156" endPos="156" selMode="0" lang="PHP" filename="C:\wamp\www\perfume\app\design\frontend\default\default\template\seur\info.phtml" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

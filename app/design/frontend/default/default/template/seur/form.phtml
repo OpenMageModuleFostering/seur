@@ -1,0 +1,13 @@
+<div id="payment_form_<?php echo $this->getMethodCode() ?>" style="display:none;">
+	<table>
+		<?php if ($this->getMethod()->getCustomTextForm()){ ?>
+		<tr>
+			<td><?php echo $this->getMethod()->getCustomTextForm() ?></td>
+		</tr>
+		<?php } else { ?>
+		<tr>
+			<td><?php echo $this->__('El envío ser&aacute; realizado via SEUR.') ?></td>
+		</tr>
+		<?php } ?>
+	</table>
+</div>

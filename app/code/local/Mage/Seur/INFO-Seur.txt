@@ -1,0 +1,15 @@
+ES | Metodo de envio para SEUR.
+EN | Shipping method to SEUR.
+DE | Liefer-Methode SEUR
+
+Version: 0.1.0
+¯¯¯¯¯¯¯
+
+*	Create Module - Seur
+
+<b>DEFAULT:</b>
+	app/code/local/Mage/Seur/etc/
+	app/code/local/Mage/Seur/Helper/
+	app/code/local/Mage/Seur/Model/
+	app/etc/Modules/Mage_Seur.xml
+	app/design/frontend/default/default/template/Seur/

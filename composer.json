@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Seur",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Metodo de envio SEUR.",
+    "authors": [
+    {
+        "name": "Manuel",
+        "email": "manuelcanepa@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
